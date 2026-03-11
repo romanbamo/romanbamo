@@ -5,7 +5,19 @@
 I focus on developing intelligent hardware-software systems for the healthcare industry. My expertise lies in medical image segmentation, robotic kinematics, and deep learning inference.
 
 ---
-### Currently completed projects
+### ✅ Currently Completed Projects
+
+* **🎯 Incision Seed Detector** * *Tech:* Python, PyTorch/TensorFlow, EfficientNet-B1, OpenCV.  
+  * *Focus:* Automated "seed" (x, y coordinates) detection for Region Growing algorithms in surgical images. High-precision preprocessing for medical segmentation workflows.
+
+* **🫀 Physiological Monitoring System (ECG & Respiration)** * *Tech:* ESP32, ADS1292R, Python (FFT Analysis), BLE, Signal Processing.  
+  * *Focus:* Real-time bio-signal acquisition and analysis. Features include Heart Rate Variability (HRV) calculation and stress level assessment via frequency-domain analysis (FFT).
+
+* **🦠 Pandemic Simulation Engine** * *Tech:* Java, Epidemiological Modeling, OOP.  
+  * *Focus:* A multi-region engine to model disease spread, viral mutations, and the impact of public health interventions. Focuses on interconnected geographical dynamics and data-driven evolution.
+
+* **🐈 BARF Calculator (Progressive Web App)** * *Tech:* JavaScript (PWA), HTML/CSS, Responsive Design.  
+  * *Focus:* A tool for precise nutritional calculation in raw food diets for felines. Optimized for mobile use, allowing daily ration planning and batch preparation based on weight and health goals.
 
 ### 🚀 Ongoing Projects
 
