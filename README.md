@@ -24,14 +24,20 @@ I focus on developing intelligent hardware-software systems for the healthcare i
 ---
 
 ### 🛠️ Tech Stack
+
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![NVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white)
+![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
 ![ROS2](https://img.shields.io/badge/ros2-%230A0FF0.svg?style=for-the-badge&logo=ros&logoColor=white)
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 
 ---
 
-📫 **How to reach me:** [Linkedin](linkedin.com/in/romanbarreramoreno)
+📫 **How to reach me:**  
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/romanbarreramoreno)
 <!--
 **romanbamo/romanbamo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
